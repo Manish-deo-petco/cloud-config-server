@@ -4,8 +4,8 @@
       filterLoyaltyReward: true
       promotionName: Vital Care Rewards
       promotionType: LOYALTY REWARD
-      promotionIdStartWith: Pals_Reward
+      promotionIdStartWith: P_Reward
       promotionIdEndWith: PRM
-      promoCodeIdStartWith: PalsReward_
+      promoCodeIdStartWith: PromoReward_
       loyaltyPromotionFlag: true
       promptUserFlag: true
