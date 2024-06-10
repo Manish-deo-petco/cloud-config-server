@@ -1,11 +1,14 @@
-    optimus-config:
-      enabled: true
-      loyaltyRewardId: 123456
-      filterLoyaltyReward: true
-      promotionName: Vital Care Rewards
-      promotionType: LOYALTY REWARD
-      promotionIdStartWith: P_Reward
-      promotionIdEndWith: PRM
-      promoCodeIdStartWith: PromoReward_
-      loyaltyPromotionFlag: true
-      promptUserFlag: true
+application:
+  name: Cloud Config Server QA1
+  user: Manish Deo QA1
+optimus-config:
+  enabled: true
+  loyaltyRewardId: 123456
+  filterLoyaltyReward: true
+  promotionName: Vital Care Rewards
+  promotionType: LOYALTY REWARD
+  promotionIdStartWith: P_Reward
+  promotionIdEndWith: PRM
+  promoCodeIdStartWith: PromoReward_
+  loyaltyPromotionFlag: true
+  promptUserFlag: true
