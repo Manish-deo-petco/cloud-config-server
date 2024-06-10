@@ -1,11 +1,11 @@
     optimus-config:
       enabled: true
-      loyaltyRewardPromoId: PalsReward_0500DLR_PRM
+      loyaltyRewardId: 123456
       filterLoyaltyReward: true
       promotionName: Vital Care Rewards
-      promotionType: LOYALTY_REWARD
-      promotionIdStartWith: EagleEyePalsReward_
-      promotionIdEndWith: _PRM
-      promoCodeIdStartWith: EagleEyePalsReward_
+      promotionType: LOYALTY REWARD
+      promotionIdStartWith: Pals_Reward
+      promotionIdEndWith: PRM
+      promoCodeIdStartWith: PalsReward_
       loyaltyPromotionFlag: true
       promptUserFlag: true
