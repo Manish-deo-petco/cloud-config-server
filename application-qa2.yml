@@ -1,0 +1,14 @@
+application:
+  name: Cloud Config Server QA2
+  user: Manish Deo QA2
+optimus-config:
+  enabled: true
+  loyaltyRewardId: 123456
+  filterLoyaltyReward: true
+  promotionName: Vital Care Rewards
+  promotionType: LOYALTY REWARD
+  promotionIdStartWith: P_Reward
+  promotionIdEndWith: PRM
+  promoCodeIdStartWith: PromoReward_
+  loyaltyPromotionFlag: true
+  promptUserFlag: true
